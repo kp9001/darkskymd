@@ -1,0 +1,96 @@
+baseURL = "https://darkskymd.org"
+title = "DarkSky Maryland"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+paginate = "7"
+theme = "spectral"
+
+[params]
+fancyTitle = '<img src="/pictures/darkskylogo.png" width="225" height="73">' # title for frontpage, may include image
+copyright = "DarkSkyMD"
+description = 'Maryland Chapter of <a href="https://darksky.org/">DarkSky International</a>'
+startbuttonText = "Contact Us"
+startbuttonLink = "#contact"
+body_is_markdown = true
+
+[[params.menu.main]]
+url = '/'
+title = "Home"
+
+[[params.menu.main]]
+url = '/events/'
+title = "Events"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params.one]
+enable = false
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "pictures/stargazing.jpg"
+img_alt = "blurry background: white/grey"
+title = 'What We Do'
+body = 'DarkSky International is an international organization that advocates for night sky conservation and smart solutions to light pollution.'
+
+[[params.two.section]]
+img = "pictures/shielded-vs-unshielded-bad-better-best-2023.jpg"
+title = 'What Is Light Pollution'
+body = '''
+Light pollution is the production of excessive artificial light at night, which has been shown to have significant measurable negative effects on wildliife, human health, and more.
+
+[LEARN MORE](https://darksky.org/resources/what-is-light-pollution/)
+'''
+
+[[params.two.section]]
+img = "pictures/globe.jpg"
+title = 'How To Get Involved'
+body = 'We are currently in the process of building out this site. Please fill out the contact form at the bottom of the page and we will be in touch!'
+
+[params.three]
+enable = false
+title = '<a href="/events">Upcoming Events</a>'
+body = '''
+[View More](/events)
+'''
+
+[params.cta]
+enable = true
+title = "Discover DarkSky International"
+body = "Learn how to become a member of DarkSky International. If you wish to get involved in Maryland, please use the contact form below to get in touch!"
+
+[[params.cta.link]]
+href = "https://darksky.org/ways-to-give/"
+text = "Join DarkSky"
+special = true
+
+[[params.cta.link]]
+href = "https://darksky.org/what-we-do/"
+text = "Learn More"
+special = false
+
+[params.contact]
+enable = true
+title = "Contact"
+body = "Please leave us a message and we'll be in touch!"
+email = "contact@darkskymd.org"
+subject = "New Submission!"
+formspree_form_id = "mnnarrgl"
+
+[params.social]
+twitter = ""
+mastodon = ""
+github = ""
+facebook = ""
+youtube = ""
+instagram = ""
+dribble = ""
+
+[languages.en]
+weight = 0
+languageName = "English"
