@@ -2,7 +2,8 @@ baseURL = "https://darkskymd.org"
 title = "DarkSky Maryland"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-theme = "spectral"
+theme = ["hugo-embed-pdf-shortcode", "spectral-mods", "spectral"]
+enableInlineShortcodes = true
 
 [params]
 fancyTitle = '<img src="/pictures/darkskylogo.png" width="225" height="73">' # title for frontpage, may include image
