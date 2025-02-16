@@ -17,8 +17,8 @@ url = '/'
 title = "Home"
 
 [[params.menu.main]]
-url = '/events/'
-title = "Events"
+url = '/actions/'
+title = "Actions"
 
 [taxonomies]
     tag = "tags"
@@ -49,11 +49,11 @@ Light pollution is the production of excessive artificial light at night, which 
 [[params.two.section]]
 img = "pictures/globe.jpg"
 title = 'How To Get Involved'
-body = 'We are currently in the process of building out this site. Please fill out the contact form at the bottom of the page and we will be in touch!'
+body = 'Please fill out the contact form at the bottom of the page and we will be in touch! Look below for any current calls to action.'
 
 [params.three]
-enable = false
-title = '<a href="/events">Upcoming Events</a>'
+enable = true
+title = '<a href="/events">Call to Action</a>'
 body = '''
 [View More](/events)
 '''
