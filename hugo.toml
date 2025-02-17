@@ -51,13 +51,15 @@ Light pollution is the production of excessive artificial light at night, which 
 [[params.two.section]]
 img = "pictures/globe.jpg"
 title = 'How To Get Involved'
-body = 'Please fill out the contact form at the bottom of the page and we will be in touch! Look below for any current calls to action.'
+body = 'Please fill out the contact form at the bottom of the page and we will be in touch!'
 
 [params.three]
 enable = true
-title = '<a href="/events">Call to Action</a>'
+title = '<a href="/actions">Actions</a>'
 body = '''
-[View More](/events)
+Learn more about work being done locally in Maryland. 
+
+[View More](/actions)
 '''
 
 [params.cta]
