@@ -16,7 +16,7 @@ ShowWordCount: false
 UseHugoToc: true
 ---
 
-DarkSky Maryland requested and obtained numerous proclamations for [International DarkSky Week](https://idsw.darksky.org/), April 21-28, 2025, listed below. For the first time, IDSW proclamations were issued by the State of Maryland and the City of Annapolis. 
+DarkSky Maryland requested and obtained numerous proclamations for [International Dark Sky Week](https://idsw.darksky.org/), April 21-28, 2025, listed below. For the first time, IDSW proclamations were issued by the State of Maryland and the City of Annapolis. 
 
   - [State of Maryland (Wes Moore, Governor of Maryland)](/documents/proclamation_maryland_2025.pdf)
   - [Montgomery County (Marc Elrich, County Executive of Montgomery County)](/documents/proclamation_moco_2025.pdf)
