@@ -1,4 +1,5 @@
 ---
+date: 2024-04-24
 title: "Lights Out Havre de Grace"
 categories: ['Events']
 showToc: false

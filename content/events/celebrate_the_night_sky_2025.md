@@ -1,4 +1,5 @@
 ---
+date: 2024-04-27
 title: "Celebrate the Night Sky"
 categories: ['Events']
 showToc: false
