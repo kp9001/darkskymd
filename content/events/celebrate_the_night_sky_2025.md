@@ -18,5 +18,4 @@ UseHugoToc: true
 
 DarkSky Maryland is cohosting Celebrate the Night Sky at Quiet Waters Park in Annapolis, MD on Sunday, April 27. 
 
-![image](../../pictures/fliers/celebrate_the_night_sky_2025.png)
-
+{{< center-image src="../../pictures/fliers/celebrate_the_night_sky_2025.png" alt="Celebrate the Night Sky Flier" >}}

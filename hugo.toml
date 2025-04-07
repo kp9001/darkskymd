@@ -2,7 +2,7 @@ baseURL = "https://darkskymd.org"
 title = "DarkSky Maryland"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-theme = ["hugo-embed-pdf-shortcode", "spectral-mods", "spectral"]
+theme = ["hugo-center-image-shortcode", "hugo-embed-pdf-shortcode", "spectral-mods", "spectral"]
 enableInlineShortcodes = true
 summaryLength = 1
 
