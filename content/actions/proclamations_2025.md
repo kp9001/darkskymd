@@ -20,11 +20,13 @@ DarkSky Maryland requested and obtained numerous proclamations for [Internationa
 
   - [State of Maryland (Wes Moore, Governor of Maryland)](/documents/proclamation_maryland_2025.pdf)
   - [Montgomery County (Marc Elrich, County Executive of Montgomery County)](/documents/proclamation_moco_2025.pdf)
+  - [Anne Arundel County (Steuart Pittman, County Executive of Anne Arundel County)](/documents/proclamation_anne_arundel_2025.pdf)
   - [City of Annapolis (Gavin Buckley, Mayor of Annapolis)](/documents/proclamation_annapolis_2025.pdf)
 
 Proclamations for IDSW 2025 around the world are being tracked [here](https://idsw.darksky.org/proclamation).
 
 {{< embed-pdf url="/documents/proclamation_maryland_2025.pdf" hidePaginator="true" >}}
 {{< embed-pdf url="/documents/proclamation_moco_2025.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="/documents/proclamation_anne_arundel_2025.pdf" hidePaginator="true" >}}
 {{< embed-pdf url="/documents/proclamation_annapolis_2025.pdf" hidePaginator="true" >}}
 
