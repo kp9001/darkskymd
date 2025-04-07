@@ -22,6 +22,10 @@ title = "Home"
 url = '/actions/'
 title = "Actions"
 
+[[params.menu.main]]
+url = '/events/'
+title = "Events"
+
 [taxonomies]
     tag = "tags"
     category = "categories"
